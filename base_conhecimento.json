@@ -1,0 +1,234 @@
+[
+  {
+    "id": 1,
+    "categoria": "Trabalho",
+    "titulo": "Acessar a Carteira de Trabalho Digital",
+    "palavras_chave": [
+      "carteira de trabalho",
+      "ctps",
+      "carteira de trabalho digital",
+      "carteira digital"
+    ],
+    "resposta": "A Carteira de Trabalho é digital. Você acessa pelo aplicativo Carteira de Trabalho Digital ou pelo portal gov.br, entrando com a sua conta gov.br.",
+    "documentos": [
+      "CPF",
+      "Conta gov.br"
+    ],
+    "onde": "Aplicativo Carteira de Trabalho Digital (celular) ou portal gov.br",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br",
+    "verificado_em": "2026-11-07"
+  },
+  {
+    "id": 2,
+    "categoria": "Documentos",
+    "titulo": "Fazer o CPF",
+    "palavras_chave": [
+      "cpf",
+      "fazer cpf",
+      "tirar cpf",
+      "inscricao no cpf"
+    ],
+    "resposta": "O CPF pode ser feito pelo site da Receita Federal ou em atendimento presencial nas unidades indicadas no site. Menores de idade contam com ajuda do responsável.",
+    "documentos": [
+      "Documento de identificação oficial"
+    ],
+    "onde": "Site da Receita Federal ou unidades de atendimento indicadas no site",
+    "fonte": "https://www.gov.br/receitafederal/pt-br",
+    "verificado_em": "2026-11-07"
+  },
+  {
+    "id": 3,
+    "categoria": "Saúde",
+    "titulo": "Fazer o Cartão Nacional de Saúde (Cartão SUS)",
+    "palavras_chave": [
+      "cartao sus",
+      "cartao do sus",
+      "sus",
+      "cns"
+    ],
+    "resposta": "Pode ser feito em uma UBS ou no app Meu SUS Digital.",
+    "documentos": [
+      "Documento com foto",
+      "CPF"
+    ],
+    "onde": "Qualquer UBS ou aplicativo Meu SUS Digital",
+    "fonte": "https://www.gov.br/saude",
+    "verificado_em": "2026-11-07"
+  },
+  {
+    "id": 4,
+    "categoria": "Documentos",
+    "titulo": "Tirar ou atualizar o título de eleitor",
+    "palavras_chave": [
+      "titulo de eleitor",
+      "titulo eleitoral",
+      "tirar titulo",
+      "e titulo"
+    ],
+    "resposta": "O título de eleitor é feito na Justiça Eleitoral. Você pode começar o pedido pelo site do TSE e seguir as instruções do cartório eleitoral. O voto é facultativo aos 16 e 17 anos e obrigatório a partir dos 18. Confira no site os documentos exigidos.",
+    "documentos": [
+      "Documento oficial com foto",
+      "CPF",
+      "Comprovante de residência"
+    ],
+    "onde": "Site do TSE ou cartório eleitoral da sua cidade",
+    "fonte": "https://www.tse.jus.br",
+    "verificado_em": "2026-11-07"
+  },
+  {
+    "id": 5,
+    "categoria": "Documentos",
+    "titulo": "Criar a conta gov.br",
+    "palavras_chave": [
+      "conta gov br",
+      "gov br",
+      "govbr",
+      "criar conta"
+    ],
+    "resposta": "A conta gov.br dá acesso a vários serviços públicos digitais. Crie pelo site ou pelo app gov.br usando seu CPF. Alguns serviços exigem nível de segurança maior (prata ou ouro).",
+    "documentos": [
+      "CPF",
+      "Celular ou e-mail para confirmação"
+    ],
+    "onde": "Site ou aplicativo gov.br",
+    "fonte": "https://www.gov.br",
+    "verificado_em": "2026-11-07"
+  },
+  {
+    "id": 6,
+    "categoria": "Documentos",
+    "titulo": "Tirar a carteira de identidade (RG)",
+    "palavras_chave": [
+      "rg",
+      "identidade",
+      "carteira de identidade",
+      "segunda via rg",
+      "cin"
+    ],
+    "resposta": "A Carteira de Identidade é emitida pelo órgão de identificação do seu estado. O agendamento e os documentos pedidos podem mudar de estado para estado, então confira no site do seu estado.",
+    "documentos": [
+      "Certidão de nascimento ou casamento",
+      "CPF",
+      "Comprovante de residência (se o estado pedir)"
+    ],
+    "onde": "Posto de identificação do seu estado",
+    "fonte": "https://www.gov.br/governodigital/pt-br",
+    "verificado_em": "2026-11-07"
+  },
+  {
+    "id": 7,
+    "categoria": "Trabalho",
+    "titulo": "Pedir o seguro-desemprego",
+    "palavras_chave": [
+      "seguro desemprego",
+      "fui demitido",
+      "demissao",
+      "desemprego"
+    ],
+    "resposta": "Quem foi demitido sem justa causa pode ter direito. O pedido pode ser feito pelo app Carteira de Trabalho Digital ou pelo portal gov.br. Há prazo para pedir, então não deixe para depois.",
+    "documentos": [
+      "Documento de identificação",
+      "CPF",
+      "Documentos da demissão (termo de rescisão)"
+    ],
+    "onde": "Aplicativo Carteira de Trabalho Digital ou portal gov.br",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br",
+    "verificado_em": "2026-11-07"
+  },
+  {
+    "id": 8,
+    "categoria": "Trabalho",
+    "titulo": "Consultar o FGTS",
+    "palavras_chave": [
+      "fgts",
+      "saldo do fgts",
+      "fundo de garantia",
+      "consultar fgts"
+    ],
+    "resposta": "Você consulta o saldo e os depósitos do FGTS no aplicativo FGTS, da Caixa, usando seu CPF.",
+    "documentos": [
+      "CPF"
+    ],
+    "onde": "Aplicativo FGTS ou agência da Caixa",
+    "fonte": "https://www.caixa.gov.br",
+    "verificado_em": "2026-11-07"
+  },
+  {
+    "id": 9,
+    "categoria": "Direitos",
+    "titulo": "Usar o Meu INSS",
+    "palavras_chave": [
+      "inss",
+      "meu inss",
+      "contribuicao",
+      "aposentadoria"
+    ],
+    "resposta": "O Meu INSS (app e site) mostra suas contribuições e permite pedir benefícios. Também dá para ligar para o 135.",
+    "documentos": [
+      "CPF",
+      "Conta gov.br"
+    ],
+    "onde": "Aplicativo ou site Meu INSS, ou telefone 135",
+    "fonte": "https://www.gov.br/inss/pt-br",
+    "verificado_em": "2026-11-07"
+  },
+  {
+    "id": 10,
+    "categoria": "Direitos",
+    "titulo": "Reclamar de uma compra ou serviço",
+    "palavras_chave": [
+      "reclamar de compra",
+      "compra deu errado",
+      "procon",
+      "consumidor",
+      "reclamacao",
+      "produto com defeito"
+    ],
+    "resposta": "Primeiro tente resolver com a empresa e guarde provas (nota fiscal, conversas e protocolos). Se não resolver, registre a reclamação no site consumidor.gov.br ou procure o Procon da sua cidade.",
+    "documentos": [
+      "Nota fiscal ou comprovante de compra",
+      "Protocolos e conversas com a empresa"
+    ],
+    "onde": "Site consumidor.gov.br ou Procon da sua cidade",
+    "fonte": "https://www.consumidor.gov.br",
+    "verificado_em": "2026-11-07"
+  },
+  {
+    "id": 11,
+    "categoria": "Saúde",
+    "titulo": "Ver a caderneta de vacinação",
+    "palavras_chave": [
+      "vacina",
+      "vacinacao",
+      "caderneta de vacinacao",
+      "carteira de vacinacao"
+    ],
+    "resposta": "Sua caderneta de vacinação pode ser vista no app Meu SUS Digital. Para tomar vacinas, procure uma UBS.",
+    "documentos": [
+      "Documento com foto",
+      "Cartão SUS ou CPF"
+    ],
+    "onde": "UBS ou aplicativo Meu SUS Digital",
+    "fonte": "https://www.gov.br/saude",
+    "verificado_em": "2026-11-07"
+  },
+  {
+    "id": 12,
+    "categoria": "Documentos",
+    "titulo": "Fazer o alistamento militar",
+    "palavras_chave": [
+      "alistamento militar",
+      "alistamento",
+      "reservista",
+      "servico militar"
+    ],
+    "resposta": "O alistamento é obrigatório para homens brasileiros no ano em que completam 18 anos. Pode ser feito online pelo portal do serviço militar ou em uma junta de serviço militar.",
+    "documentos": [
+      "Documento de identificação",
+      "CPF"
+    ],
+    "onde": "Portal do serviço militar ou junta de serviço militar",
+    "fonte": "https://www.gov.br/defesa/pt-br",
+    "verificado_em": "2026-11-07"
+  }
+]
