@@ -6,7 +6,15 @@ sobre documentos, trabalho, saúde e direitos, usando apenas uma base de conheci
 ## Integrantes
 | Nome | RM |
 |------|----|
-| _preencher_ | _preencher_ |
+| Guilherme Miranda | 573107 |
+
+| Nome | RM |
+|------|----|
+| Rafael Gandolfi | 569036 |
+
+| Nome | RM |
+|------|----|
+| Carlos Eduardo | 572949 |
 
 ## Público e problema
 - **Público:** jovens no primeiro emprego.
