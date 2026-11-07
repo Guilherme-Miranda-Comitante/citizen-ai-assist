@@ -68,8 +68,39 @@ Ministério da Saúde: https://www.gov.br/saude.
 Portal gov.br: https://www.gov.br.
 
 ## Teste com usuários
-_Preencher: nº de pessoas (mín. 3 de fora da equipe), nº de atendimentos (mín. 10), indicadores obtidos, dúvidas sem solução e a melhoria feita a partir do teste. Não registrar nomes nem dados pessoais._
 
+O assistente foi testado por 3 pessoas de fora da equipe, somando 11 atendimentos.
+Nenhum nome ou dado pessoal foi registrado.
+
+### Indicadores obtidos
+| Indicador | Resultado |
+|-----------|-----------|
+| Atendimentos registrados | 11 |
+| Resposta encontrada | 54,5% |
+| Taxa de acerto (ajudou) | 54,5% |
+| Tempo médio para encontrar | 37,4 s |
+| Tentativas por atendimento | 1,64 |
+| Facilidade de uso (1 a 5) | 3,2 |
+
+### Dúvidas sem solução
+- Como faço para tirar minha carteira de trabalho?
+- Como começar a trabalhar com carteira assinada?
+- Como fazer o cartão do SUS
+- Como resolvo se meu produto veio com defeito?
+
+### Análise
+A busca só pontua quando a pergunta contém uma palavra-chave exatamente como está
+escrita na base. Por isso, perguntas com outras palavras para o mesmo assunto
+("carteira assinada", "produto veio com defeito") não atingiram os 3 pontos mínimos
+e ficaram sem resposta.
+
+### Melhoria feita a partir do teste
+Foram adicionadas palavras-chave novas ao `base_conhecimento.json`:
+- Orientação 1 (Carteira de Trabalho Digital): "carteira assinada"
+- Orientação 10 (Reclamar de compra ou serviço): "defeito"
+
+Depois da alteração, as perguntas sobre carteira assinada e produto com defeito
+passaram a ser encontradas.
 ## Limitações
 - Busca por palavras-chave: não entende sinônimos nem erros de digitação.
 - Só responde o que está na base (12 orientações); informações oficiais podem mudar.
