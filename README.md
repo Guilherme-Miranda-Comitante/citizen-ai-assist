@@ -21,7 +21,12 @@ sobre documentos, trabalho, saúde e direitos, usando apenas uma base de conheci
 - **Problema:** a informação sobre documentos e direitos está espalhada, em linguagem técnica e misturada com sites falsos.
 
 ## ODS relacionados
-_Preencher (sugestões a conferir: ODS 8 – Trabalho decente, ODS 10 – Redução das desigualdades, ODS 16 – Instituições eficazes)._
+
+ODS 8	Trabalho decente e crescimento econômico	O assistente ajuda jovens a entrar no mercado formal (Carteira de Trabalho Digital, FGTS, seguro-desemprego). 
+
+ODS 10	Redução das desigualdades	Quem tem menos acesso à informação perde direitos e tempo. O assistente traz orientação simples e gratuita.
+
+ODS 16	Paz, justiça e instituições eficazes	Facilita o acesso a serviços públicos e à informação confiável, com fonte oficial e transparência.
 
 ## Como executar
 ```bash
