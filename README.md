@@ -62,7 +62,10 @@ Pergunta e títulos são normalizados (minúsculas, sem acento, sem pontuação)
 Nenhuma.
 
 ## Fontes consultadas
-_Preencher com os sites oficiais usados (gov.br, Receita Federal, TSE, Caixa, INSS, consumidor.gov.br...) e a data da conferência._
+
+Ministério do Trabalho e Emprego: https://www.gov.br/trabalho-e-emprego/pt-br.
+Ministério da Saúde: https://www.gov.br/saude.
+Portal gov.br: https://www.gov.br.
 
 ## Teste com usuários
 _Preencher: nº de pessoas (mín. 3 de fora da equipe), nº de atendimentos (mín. 10), indicadores obtidos, dúvidas sem solução e a melhoria feita a partir do teste. Não registrar nomes nem dados pessoais._
