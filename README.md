@@ -107,4 +107,4 @@ passaram a ser encontradas.
 - Detecção de dados pessoais é simples (dígitos e `@`); não detecta nomes.
 
 ## Vídeo técnico
-_Colar o link do YouTube (não listado)._
+https://youtu.be/-IkMyiiKFxU
